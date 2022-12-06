@@ -3,6 +3,7 @@ Code submission and Video Walkthrough
 
 **<u>Video Walkthrough:</u>**
 
+https://www.youtube.com/watch?v=CihC_BC41w0
 
 
 Purchase Class Diagram:
