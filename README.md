@@ -1,7 +1,7 @@
 # DSC180a-Q1-final-code
 Code submission and Video Walkthrough
 
-**_Video Walkthrough:_**
+<u>**Video Walkthrough:**</u>
 
 
 
